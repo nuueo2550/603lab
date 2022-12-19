@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+    color: rgb(0, 0, 255);
+    font-size : 40px ; 
+}
+nav{
+    background-color: rgb(102, 112, 141);
+    text-align: center;
+    font-size: 0;
+    
+    
+}
+nav a{
+    color: rgb(71, 224, 10);
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 20px;
+    font-size: 16px;
+    background-color: rgb(102, 112, 141);
+
+    
+}
+nav a:hover{
+    
+    background-color: white;
+    transition: 0.5s;
+}   
+
+.teacher{    
+    width: 2000px;
+
+    padding: 10px 0px 100px 0px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    line-height: 1;
+    box-sizing: border-box;
+    
+}
+.picture{
+    width: 500px;
+  
+}
+.RT{
+    width: 2000px;
+
+    padding: 10px 0px 30px 0px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    line-height: 1.5;
+    box-sizing: border-box;
+    
+}
+.float-test1{
+    float :left;
+    margin: 0px 10px;
+}
+
+.float-test2{
+    float :right;
+    margin: 0px 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
